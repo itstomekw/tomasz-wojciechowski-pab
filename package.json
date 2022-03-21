@@ -1,0 +1,26 @@
+{
+  "start": "nodemon ./src/index.ts",
+  "name": "tomasz-wojciechowski-pab",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itstomekw/tomasz-wojciechowski-pab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itstomekw/tomasz-wojciechowski-pab/issues"
+  },
+  "homepage": "https://github.com/itstomekw/tomasz-wojciechowski-pab#readme",
+  "dependencies": {
+    "@types/node": "^17.0.21",
+    "express": "^4.17.3",
+    "typescript": "^4.6.2"
+  },
+  "description": ""
+}
